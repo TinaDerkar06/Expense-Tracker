@@ -1,2 +1,1 @@
-# Expensive-Tracker
-Helps users manage income, expenses, and savings with real-time insights
+# Expense-Tracker-Project
